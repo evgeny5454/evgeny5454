@@ -5,5 +5,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evgeny5454)](https://github.com/anuraghazra/github-readme-stats) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=evgeny5454)](https://github.com/anuraghazra/github-readme-stats)
 
-
-https://stackoverflow.com/questions/33443146/remove-image-from-cache-in-glide-library
